@@ -1,6 +1,6 @@
 <h2>Hello world! :wave: </h2><br>
 :grinning: I’m Soumya Prabha Maiti. <br>
-🎓 Undergrad student of Electronics and Tele-Communication Engineering(Batch of 2023) at Jadavpur University, Kolkata, India. <br>
+🎓 Undergrad student of Electronics and Tele-Communication Engineering(2019-2023) at Jadavpur University, Kolkata, India. <br>
 <!-- Interested in Machine Learning and Deep Learning.
  - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
