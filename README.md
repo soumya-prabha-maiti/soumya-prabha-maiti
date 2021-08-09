@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Soumya Prabha Maiti</h1>
-🎓 Undergraduate student of Electronics and Tele-Communication Engineering(2019-2023) at Jadavpur University, Kolkata, India. <br>
-💻 3 star coder at Codechef
-🌱I am currently learning about Deep Learning 
+-🎓 Undergraduate student of Electronics and Tele-Communication Engineering(2019-2023) at Jadavpur University, Kolkata, India. 
+-💻 3 star coder at Codechef
+-🌱I am currently learning about Deep Learning 
 <!-- 📫How to reach me -  -->
 
 
