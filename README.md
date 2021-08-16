@@ -2,8 +2,9 @@
 
 - 🎓 Undergraduate student of Electronics and Tele-Communication Engineering(2019-2023) at Jadavpur University, Kolkata, India. 
 - 💻 3 star coder at Codechef
-- 🌱 I am currently learning about Deep Learning 
-<!-- 📫How to reach me -  -->
+- 🤖 Enthusiastic about Machine Learning and Deep Learning
+- 🌱 Currently learning about Computer Vision 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
