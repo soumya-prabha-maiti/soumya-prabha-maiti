@@ -5,6 +5,18 @@
 - 🤖 Enthusiastic about Machine Learning and Deep Learning
 - 🌱 Currently learning about Computer Vision 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/twitterid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitterid" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/soumya-prabha-maiti-377b581b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinid" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/kaggleid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggleid" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/codechefid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechefid" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hkrrankid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hkrrankid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetcodeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcodeid" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gfgid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfgid" height="30" width="40" /></a>
+</p> -->
+
+
 <h3 align="left">Machine Learning stack:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
