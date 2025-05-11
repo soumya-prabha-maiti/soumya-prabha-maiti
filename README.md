@@ -2,9 +2,9 @@
 
 <h2>About me :</h2>
 
-- 🎓 Recent Electronics graduate from Jadavpur University, India (2019-2023).
-- 💻 .NET and DevOps Engineer at OpenLM India.
-- 🏢 Former intern at Texas Instruments where I contributed to the developement of a Python-based automated testing framework for analog chips.
+- 🎓 B.E.(Hons.) Electronics & Telecommunication Engg., Jadavpur University '23 
+- 💻 Software Engineer at Amazon India. Ex-intern @ Texas Instruments. 
+<!-- - 🏢 Former intern at Texas Instruments where I contributed to the developement of a Python-based automated testing framework for analog chips. -->
 - ⭐ 500+ on Leetcode, 3 star coder at Codechef. I code mainly in C++ and Python.
 - 🤖 Enthusiastic about Machine Learning and Deep Learning.
 
@@ -13,9 +13,9 @@
 <h2>Connect with me:</h2>
 <a href="mailto:soumyaprabhamaiti2001@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?&logo=gmail&logoColor=white" alt="EmailId" height="20"/></a>
 <a href="https://www.linkedin.com/in/soumya-prabha-maiti/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedinId" height="20" /></a>
-<a href="https://www.leetcode.com/soumya_prabha_maiti" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetcodeId" height="20" /></a>
+<!-- <a href="https://www.leetcode.com/soumya_prabha_maiti" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="LeetcodeId" height="20" /></a>
 <a href="https://kaggle.com/soumyaprabhamaiti" target="blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white" alt="KaggleId" height="20"/></a>
-<a href="https://www.codechef.com/users/soumya_prabha" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23964C00.svg?logo=CodeChef&logoColor=white" alt="CodechefId" height="20" /></a>
+<a href="https://www.codechef.com/users/soumya_prabha" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23964C00.svg?logo=CodeChef&logoColor=white" alt="CodechefId" height="20" /></a> -->
 </p>
 <!-- TODO : add usernames inside badges -->
 <!-- <a href="mailto:soumyaprabhamaiti2001@gmail.com"><img src="https://img.shields.io/badge/soumyaprabhamaiti2001@gmail.com-c14438?&logo=gmail&logoColor=white" alt="Email" height="20"/></a>
