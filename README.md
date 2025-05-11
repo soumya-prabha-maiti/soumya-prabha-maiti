@@ -3,8 +3,7 @@
 <h2>About me :</h2>
 
 - 🎓 B.E.(Hons.) Electronics & Telecommunication Engg., Jadavpur University '23 
-- 💻 Software Engineer at Amazon India. Ex-intern @ Texas Instruments. 
-<!-- - 🏢 Former intern at Texas Instruments where I contributed to the developement of a Python-based automated testing framework for analog chips. -->
+- 💻 Software Engineer at Amazon India. Ex-intern @ Texas Instruments.  <!-- - 🏢 Former intern at Texas Instruments where I contributed to the developement of a Python-based automated testing framework for analog chips. -->
 - ⭐ 500+ on Leetcode, 3 star coder at Codechef. I code mainly in C++ and Python.
 - 🤖 Enthusiastic about Machine Learning and Deep Learning.
 
